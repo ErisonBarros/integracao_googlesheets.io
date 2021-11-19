@@ -3,7 +3,6 @@
 
 
 
-
 # Video com a integração sobre o appi do Google Sheets.
 
 [![MATERIAL](https://i.ibb.co/ssQqs7B/16129802-1388747494503920-740414504-o-696x522.jpg)](https://drive.google.com/file/d/1pHHHTAo75qlm7mEQkRZhvo3nEeufUhMX/view?usp=sharing)
@@ -11,3 +10,7 @@
 
 
 https://github.com/ErisonBarros/integracao_googlesheets.io/blob/erison.barros/Integra%C3%A7%C3%A3o_com_Google_Sheets.ipynb
+
+# Verificações 
+
+teste
